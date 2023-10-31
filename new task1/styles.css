@@ -1,0 +1,72 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #643333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-image: url('header-background.jpg');
+    background-size: cover;
+    color: #544c81;
+    text-align: center;
+    padding: 100px 0;
+}
+
+main {
+    text-align: center;
+    padding: 20px;
+}
+
+.service {
+    display: inline-block;
+    margin: 20px;
+    padding: 20px;
+    background-color: #20416d;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+
+.content {
+    text-align: center;
+    background-color: black;
+    padding: 20px;
+}
+
+img {
+    width: 200px; 
+    height: auto; 
+    display: block; 
+    margin: 0 auto;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+h1 {
+    font-size: 36px;
+    color: #333;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+.cta-button {
+    background-color: #FF5733;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
